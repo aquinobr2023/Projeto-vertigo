@@ -85,3 +85,16 @@ outline: 1px solid var(--purple);
     text-decoration: underline;
 
 }
+
+.login button{
+    margin-top:1rem ;
+    padding-block: 1rem;
+    width: 100%;
+    background: var(--purple);
+    border:none ;
+    border-radius:0.25rem ;
+
+    font-size: 1.6rem;
+    font-weight: 700;
+    color: var(--white);
+}
